@@ -1,0 +1,30 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"]
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+        },
+	{"tag": "modules",
+         "patterns": ["what are the main modules in this master ?", "What about modules ?", "which modules be studied?", "modules?"],
+         "responses": ["The main modules are artificial intelligence and Big Data ", "There are : artificial intelligence, Big Data, Machine Learning, Deep Learning, Computer Vision etc."]
+	},
+        
+        {"tag": "MIPS",
+         "patterns": ["what is MIPS ?", "which are the outcomes of IPS training?", "can you tell me about IPS Master?", "can you give me any idea about Intelligent Processing Systems Master?"],
+         "responses": ["Master Intelligent Processing Systems is a specialty master. Holders of the degree will be able to: design and develop computer systems, exploit existing possibilities to design programs dealing with a particular class of problems, measure the degree of relevance of each of the solutions provided and make decisions with knowledge of all the constraints involved.", "Master Intelligent Processing Systems is a specialty master. The laureate of this master will be the expert in the design and development of complex information, knowledge and decision systems. it will be able to manage masses of data, filter, extract and organize relevant information while ensuring their security and finally take decisions while measuring their socio-economic and ecological repercussions. The laureates will therefore be entrepreneurs, designers, developers, decision-makers, consultants, and researchers."]
+
+        },
+        {"tag": "lessons",
+         "patterns": ["what are the types of lessons?"],
+         "responses": ["The types of teaching:Courses, TD, TP, Projects, Seminars, Workshops and Conferences.", "Different types of teaching: Courses, TD, TP, Projects, Seminars ... ","Courses, TD, TP, Projects, Seminars, Workshops and Conferences."]
+        }
+   ]
+}
+
+
+
+
+

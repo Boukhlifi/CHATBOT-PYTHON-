@@ -1,0 +1,11 @@
+tensorflow
+keras
+pickle
+nltk
+
+
+
+
+
+
+
